@@ -1,0 +1,16 @@
+.logo{
+    position: relative;
+    width: 240px;
+    height: 62px;
+    margin: 2% 2%;
+}
+.linha{
+    display: inline;
+    font-weight: 700;
+    color: chocolate;
+}
+.direita{
+    position: relative;
+    float: right;
+    margin: 3%;
+}
