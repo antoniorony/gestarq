@@ -1,5 +1,5 @@
 <?php
-$mysqli = mysqli_connect("localhost","u385468929_jaman","HupaButeZy","u385468929_vuvet");
+$mysqli = mysqli_connect("localhost","*******","******","*******");
 
 if(!$mysqli){
     echo 'ERRO';
